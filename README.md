@@ -10,5 +10,5 @@ Aplikasi desktop untuk mengelola absensi dan menghitung gaji karyawan laundry.
 - Ekspor laporan ke Excel
 
 ## Unduh Aplikasi
-Unduh versi terbaru dari aplikasi [di sini]((https://github.com/LytroPlay/App-Absensi-dan-gaji-karyawan-simple)).
+Unduh versi terbaru dari aplikasi [di sini](https://github.com/LytroPlay/App-Absensi-dan-gaji-karyawan-simple).
 
