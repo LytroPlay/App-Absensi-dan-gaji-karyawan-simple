@@ -99,7 +99,7 @@ class AttendanceDialog(QDialog):
             status_combo.addItems(["Masuk", "Tidak Masuk"])
             grid_layout.addWidget(status_combo, i+1, 1)
             
-            work_hours = QLineEdit("8")  # Default 8 jam
+            work_hours = QLineEdit("9")  # Default 9 jam
             grid_layout.addWidget(work_hours, i+1, 2)
             
             overtime_hours = QLineEdit("0")  # Default 0 jam lembur
